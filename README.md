@@ -6,7 +6,7 @@ I'm a Software Engineer based in Nepal, with 1 year 2 months of experience in Fr
 ## ![Profile views](https://komarev.com/ghpvc/?username=Rcthapa1996&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Personal Github Accoount
-![](https://github-readme-streak-stats.herokuapp.com/?user=rcthapa1996&%22%20alt=%22rcthapa1996))
+![](https://github-readme-streak-stats.herokuapp.com/?user=rcthapa1996&%22%20alt=%22rcthapa1996)
 
 ## Previous Company Personal Github Account
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RamchandraThapa&%22%20alt=%22RamchandraThapa)
