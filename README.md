@@ -1,7 +1,8 @@
-# Hi there 👋, I'm Ramchandra Thapa!
+## Hi there 👋
+<image src="https://readme-typing-svg.herokuapp.com/?width=700&lines=I%27m%20Ramchandra%20Thapa!%3BI%27m%20always%20looking%20for%20new%20challenges%3BLet%27s%20build%20something%20great%20together!">
 
 ## About Me
-I'm a Software Engineer based in Nepal, with 1 year 2 months of experience in Frontend. I'm passionate about Rubik's Cube Chess, reading books, and watching movies and constantly strive to learn and improve my skills.
+I'm a Software Engineer from Nepal, with 1 year 2 months of experience in Frontend. I'm passionate about Rubik's Cube Chess, reading books, and watching movies and constantly strive to learn and improve my skills.
 
 ## ![Profile views](https://komarev.com/ghpvc/?username=Rcthapa1996&label=Profile%20views&color=0e75b6&style=flat)
 
